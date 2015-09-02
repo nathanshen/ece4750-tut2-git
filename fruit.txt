@@ -2,3 +2,9 @@ apple
 mango
 orange
 melon
+banana
+peach
+lemon
+plum
+kiwi
+date
